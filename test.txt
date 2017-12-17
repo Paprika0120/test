@@ -14,9 +14,10 @@ nf9
 
 nf10 edit
 nf11
-<<<<<<< HEAD
 nf12
-=======
 nf13
 >>>>>>> nf13
 nf15  nf15edit  edit again
+
+
+aaanf16
