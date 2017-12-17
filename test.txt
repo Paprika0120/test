@@ -21,5 +21,3 @@ nf15  nf15edit  edit again
 
 
 aaanf16
-
-nft0
