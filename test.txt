@@ -6,3 +6,5 @@ dddddddddsssswww
 
 nf3
 nf7
+
+nf6
