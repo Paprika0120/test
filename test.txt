@@ -1,10 +1,10 @@
-<<<<<<< HEAD
 newnewnew
+
+new fork feature
+
 new feature
 
-=======
 fork2
->>>>>>> 6de3045614e49b683083e61d56728d5c68ceecf6
 bug fix
 x hong fix after pull
 
@@ -19,7 +19,6 @@ nf10 edit
 nf11
 nf12
 nf13
->>>>>>> nf13
 nf15  nf15edit  edit again
 
 
