@@ -1,6 +1,10 @@
+<<<<<<< HEAD
 newnewnew
 new feature
 
+=======
+fork2
+>>>>>>> 6de3045614e49b683083e61d56728d5c68ceecf6
 bug fix
 x hong fix after pull
 
