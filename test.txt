@@ -1,5 +1,11 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 newnewnew
+=======
+new fork feature
+
+
+>>>>>>> b266ff6c2675053fc9dca0f198e13dec188144c8
 new feature
 
 =======
