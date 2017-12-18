@@ -1,19 +1,11 @@
-<<<<<<< HEAD
 newfork222222
 
 newnewnew
-=======
-<<<<<<< HEAD
-<<<<<<< HEAD
 newnewnew
-=======
 new fork feature
 
 
->>>>>>> b266ff6c2675053fc9dca0f198e13dec188144c8
 new feature
->>>>>>> VirusMzz-newforkf
-
 new fork feature
 delete something
 x hong fix after pull
